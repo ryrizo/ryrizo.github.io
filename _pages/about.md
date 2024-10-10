@@ -4,26 +4,12 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I'm Ryan Perrizo. I'm a technologist with a wide breadth of experience from software engineering, to machine learning, to cybersecurity. I love to reading, writing, chess, and kettlebells. My collection of notes over the years has been incredibly beneficial to me. I realized I wanted a mechanism for sharing, which you are looking at. I hope I write something you find helpful. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+### A Few Favorite Books (h4)
+* [Tao Te Ching - Lao Tzu](https://www.amazon.com/Tao-Te-Ching-Deluxe-Hardbound)
+* [How to Create a Mind - Ray Kurzweil](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook)
+* [Foundation - Isaac Asimov](https://www.amazon.com/Foundation-Isaac-Asimov-ebook)
+* [Avogadro Corp - William Hertling](https://www.amazon.com/Avogadro-Corp-Singularity-Closer-Appears-ebook)
+* [The Obstacle is the Way - Ryan Holiday](https://www.amazon.com/Obstacle-Way-Expanded-10th-Anniversary-ebook)
+* [Antifragile - Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook)

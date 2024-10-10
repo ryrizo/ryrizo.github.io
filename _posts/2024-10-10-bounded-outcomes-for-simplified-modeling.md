@@ -2,11 +2,12 @@
 layout: post
 title: Bounded Outcomes for Simplified Modeling
 categories: [machine-learning, GenAI]
+excerpt: Deep learning models have proven to be highly adaptable and applicable in almost every industry. As widespread as the models have become, deploying and scaling their performance in production comes with recurring challenges. One challenge area is classification tasks with a high number of possible classes.
 ---
 
-Deep learning models have proven to be highly adaptable and applicable in almost every industry. As widespread as the models have become, deploying and scaling their performance in production comes with recurring challenges. One challenge area is during classification tasks with a high number of possible classes. 
+![](https://www.dropbox.com/scl/fi/itmqzcys9v995bhmzoxwr/bound-outcomes-hero-copy.png?rlkey=gmgmv7faupqhz91r0ajgby4tf&st=c907jetk&dl=0 "Image created by ChatGPT using OpenAI’s DALL·E image generation tool.")
 
-![](https://previews.dropbox.com/p/thumb/ACYuSfIj_GaPJpPxaoSsTiL3IhO9gR4qj4dkQBrlqTGVHHv8Nwu-efMVnpFioQi8MieXcoq_IGAp7xNcXGBTu83052jsBZOiqLW621n0iHm2IqHz0XswDJ83LaP0uapCFRVOX_CBJDNzD1B_CSfuDe1CzhskCNCKVI4Bcofi7IzlNJ46Pf3JEvZyGgrDrgTwZzS7OuDOTaAlmoC223n6-jBWLvauVK9agyzsR1Mj23VQzyx2CSEemeK5-iY1E8fIBEpUX9a7018fanYtnKViQLqrUJL4Ngp72VKfYn1cJfy09BqKACtNjoPxSEbWwYoYotc/p.png "Image created by ChatGPT using OpenAI’s DALL·E image generation tool.")
+Deep learning models have proven to be highly adaptable and applicable in almost every industry. As widespread as the models have become, deploying and scaling their performance in production comes with recurring challenges. One challenge area is classification tasks with a high number of possible classes. 
 
 As categories are added, the network needs to capture increasingly granular subtleties to make a determination between one category and another. To maintain performance, the model architecture often grows in size, training time becomes much longer, the cost of compute rises with server requirements, and the data preparation scales alongside the required data. In short, a high number of categories results in the entire process becoming substantially more expensive to bootstrap and maintain. 
 

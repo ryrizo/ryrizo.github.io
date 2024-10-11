@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Ryan Perrizo. I'm a technologist with a wide breadth of experience from software engineering, to machine learning, to cybersecurity. I love to reading, writing, chess, and kettlebells. My collection of notes over the years has been incredibly beneficial to me. I realized I wanted a mechanism for sharing, which you are looking at. I hope I write something you find helpful. 
 
-### A Few Favorite Books (h3)
+### A Few Favorite Books
 * [Tao Te Ching - Lao Tzu](https://www.amazon.com/Tao-Te-Ching-Deluxe-Hardbound)
 * [How to Create a Mind - Ray Kurzweil](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook)
 * [Foundation - Isaac Asimov](https://www.amazon.com/Foundation-Isaac-Asimov-ebook)

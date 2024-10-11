@@ -3,6 +3,16 @@ layout: default
 ---
 
 <article class="post detailed">
+  
+  {% if page.image %}
+  <div class="post-image"style="text-align: center; margin-bottom: 1.5em;">
+    <img src="{{ page.image }}" style="max-width: 100%; height: auto;" alt="{{ page.image_caption | default: 'Post image' }}">
+    {% if page.image_caption %}
+    <p class="image-caption" style="font-style: italic; color: #666; margin-top: 0.5em;">{{ page.image_caption }}</p>
+    {% endif %}
+  </div>
+  {% endif %}
+
   <h1>{{ page.title }}</h1>
 
   <div>
